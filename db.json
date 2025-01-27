@@ -1,0 +1,24 @@
+{
+  "emails": [
+    {
+      "id": "1",
+      "text": "a title"
+    },
+    {
+      "id": "20fe",
+      "text": "Lorem ipsum dolor sit\n     amet consectetur adipisicing elit. Fugit est ut, optio molestiae qui\n      cum tempore porro corporis nemo maiores consectetur.\n      Corrupti ab cumque vero dolorum culpa commodi obcaecati quasi.<b>wwe23231</b>"
+    },
+    {
+      "id": "9057",
+      "text": "Hi, it't me, <b>Dany</b>, <i>your</i> <u>friend</u>!"
+    },
+    {
+      "id": "f636",
+      "text": "<b>Texttext</b> <i>123</i>"
+    },
+    {
+      "id": "f825",
+      "text": "Enter the <i>textwwwwww</i>"
+    }
+  ]
+}
